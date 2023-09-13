@@ -1,3 +1,5 @@
+<a href="https://colab.research.google.com/drive/1YAvRb4GjpQTwq0t2UNq1XbvucBepVnz9?usp=sharing"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a>
+
 # BRAND LOCUS
 Introducing **BRAND LOCUS**, the cutting-edge brand logo detector designed with user-friendliness in mind. Powered by state-of-the-art technology and trained on the extensive OpenLogo dataset featuring a staggering 352 logo classes*, Brand Locus is your go-to solution for logo recognition.
 
